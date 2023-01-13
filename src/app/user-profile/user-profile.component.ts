@@ -10,9 +10,9 @@ import { User } from '../models/User.model';
 export class UserProfileComponent implements OnInit {
 
   user: User = {
-    name: "Paul Allen",
-    prenom: "Karl Darm",
-    email: "pk@gmail.com",
+    name: "Wilfried",
+    prenom: "Koua",
+    email: "koua.eelvire@gmail.com",
     profilePictureUrl: "https://www.universityofcalifornia.edu/sites/default/files/black-man-suit.jpg"
   }
 
